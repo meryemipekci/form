@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Defne",
+      "title": "React MVC Pattern (mimari)",
+      "text": "MVC Mimari ile biesenler yonetimi??",
+      "date": "2023-11-22T13:22:45.345Z"
+    },
+    {
+      "id": 2,
+      "user": "JohnDoe",
+      "title": "Introduction to Python Programming",
+      "text": "Learning the basics of Python programming language.",
+      "date": "2023-11-23T10:15:30.123Z"
+    },
+    {
+      "id": 3,
+      "user": "Alice",
+      "title": "Web Development with Node.js",
+      "text": "Exploring Node.js for server-side development.",
+      "date": "2023-11-24T16:45:12.678Z"
+    },
+    {
+      "id": 4,
+      "user": "Bob",
+      "title": "Machine Learning Fundamentals",
+      "text": "Understanding the basics of machine learning algorithms.",
+      "date": "2023-11-25T08:30:55.987Z"
+    },
+    {
+      "id": 5,
+      "user": "Elena",
+      "title": "UX/UI Design Principles",
+      "text": "Key principles for designing a great user experience.",
+      "date": "2023-11-26T14:10:20.567Z"
+    },
+    {
+      "id": 6,
+      "user": "Charlie",
+      "title": "Data Visualization Techniques",
+      "text": "Using data visualization tools to present insights.",
+      "date": "2023-11-27T12:05:40.876Z"
+    },
+    {
+      "id": 7,
+      "user": "Grace",
+      "title": "Cybersecurity Best Practices",
+      "text": "Tips and best practices for ensuring online security.",
+      "date": "2023-11-28T09:55:33.222Z"
+    },
+    {
+      "id": 8,
+      "user": "Sam",
+      "title": "Mobile App Development Trends",
+      "text": "Exploring the latest trends in mobile app development.",
+      "date": "2023-11-29T17:30:15.789Z"
+    },
+    {
+      "id": 9,
+      "user": "Olivia",
+      "title": "Cloud Computing Essentials",
+      "text": "Understanding the fundamentals of cloud computing.",
+      "date": "2023-11-30T11:40:48.654Z"
+    },
+    {
+      "id": 10,
+      "user": "Alex",
+      "title": "Agile Project Management",
+      "text": "Applying agile methodologies for effective project management.",
+      "date": "2023-12-01T08:20:37.333Z"
+    },
+    {
+      "id": "a269bd35-88ea-427b-8937-e575b4ead3d2",
+      "date": "2023-11-30T11:10:18.473Z",
+      "user": "",
+      "title": "",
+      "text": ""
+    },
+    {
+      "id": "540ac0e3-7e05-4bcf-8d50-a3cfc4e94e72",
+      "date": "2023-11-30T11:30:44.763Z",
+      "user": "meryem",
+      "title": "mvc pattern ",
+      "text": "use it in a new project hsudsado"
+    }
+  ]
+}
